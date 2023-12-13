@@ -1,0 +1,13 @@
+[
+	{
+		"directory": "/home/vagrant/jenkinsintegration",
+		"command": "/usr/bin/g++ -std=c++11 -c -o main.o main.cpp",
+		"file": "main.cpp"
+	}
+	,
+	{
+		"directory": "/home/vagrant/jenkinsintegration",
+		"command": "/usr/bin/g++ -std=c++11 -c -o functions.o functions.cpp",
+		"file": "functions.cpp"
+	}
+]
